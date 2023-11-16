@@ -22,10 +22,10 @@ function verifyNumber() {
     if (bet > numberToFind)
     {
         attemps++;
-        alert('🚨 o número é para ser encontrador é MENOR');
+        alert('🚨 o número para ser encontrador é MENOR');
     }
     else if (bet < numberToFind) {
-        alert('🚨 O número é para ser encontrador é MAIOR');
+        alert('🚨 O número para ser encontrador é MAIOR');
     }
     else
     {
