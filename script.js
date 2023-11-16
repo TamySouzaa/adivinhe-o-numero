@@ -3,7 +3,7 @@ var attemps = 0;
 
 function refresh() {
 
-    numberToFind = parseInt(Math.random() * 100);
+    numberToFind = parseInt(Math.random() * 101);
 
     console.log(numberToFind)
 }
